@@ -1,0 +1,6 @@
+*.lock
+*.gdb
+*.aprx~
+*.sde~
+.DS_Store
+Thumbs.db
